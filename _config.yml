@@ -40,15 +40,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "azizim [at] usc [dot] edu"
+  github: Azizimj
+  linkedin: https://www.linkedin.com/in/m-javad-azizi/
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
-  github: Azizimj
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: https://www.linkedin.com/in/m-javad-azizi/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
