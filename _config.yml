@@ -14,10 +14,15 @@ author: Azizimj
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: ""
+  Publications: "publications"
+  #Blog: "blog"
+  #Talks: "talks"
+  #Resume: "resume"
   #About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -42,7 +47,7 @@ social-network-links:
   email: "azizim [at] usc [dot] edu"
   github: "Azizimj"
   linkedin: "m-javad-azizi"
-  google-scholar: your google scholar
+#  google-scholar: "
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   twitter: daattali
