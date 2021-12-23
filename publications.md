@@ -114,7 +114,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=70kjp5
     [Preprint](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf){: .btn}
     [Paper](https://ieeexplore.ieee.org/document/8978150){: .btn}
     [Code](https://github.com/kaldi-asr/kaldi/tree/master/egs/bentham){: .btn}
-    [Blog]({% post_url 2018-11-22-subword-segmentation %}){: .btn}
 
 **2018**
 
