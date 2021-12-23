@@ -12,6 +12,9 @@ I had the chance of assisting to teach the following courses.
 - CSCI 570, Analysis of Algorithms, Summer 2019
 - ISE 561, Economic Analysis, Summer 2018
 - ISE 330, Operations Research, Spring 2018
+- Regression Analysis, Spring 2017
+- Regression Analysis, Fall 2016
+- Fundamentals of Simulation, Fall 2016
 
 <!-- **2022**
 
