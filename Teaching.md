@@ -8,10 +8,10 @@ I had the chance of assisting to teach the following courses.
 - ISE 535, Data Mining, Fall 2021
 - ISE 535, Data Mining, Summer 2021
 - ISE 220, Probabilities, Fall 2021
-- ISE 561, Engineerng Economics, Summer 2021
-- CSCI 574, Algorithms Analysis, Summer 2019
-- ISE 561, Engineerng Economics, Summer 2018
-- ISE 330, Intro to OR, Spring 2018
+- ISE 561, Economic Analysis, Summer 2021
+- CSCI 570, Analysis of Algorithms, Summer 2019
+- ISE 561, Economic Analysis, Summer 2018
+- ISE 330, Operations Research, Spring 2018
 
 <!-- **2022**
 
