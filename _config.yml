@@ -23,7 +23,7 @@ author: Azizimj
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+  Home: "index"
   Publications: "publications"
   #Blog: "blog"
   #Talks: "talks"
