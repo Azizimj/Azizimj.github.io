@@ -4,7 +4,7 @@ title: About me
 subtitle:
 ---
 
-My name is Mohammad Javad Azizi. I have the following qualities:
+Please find my 
 
 - 
 - 

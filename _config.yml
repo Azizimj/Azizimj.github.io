@@ -14,7 +14,7 @@ author: Azizimj
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,6 +42,7 @@ social-network-links:
   email: "azizim [at] usc [dot] edu"
   github: "Azizimj"
   linkedin: "m-javad-azizi"
+  google-scholar: your google scholar
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   twitter: daattali
@@ -62,7 +63,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
