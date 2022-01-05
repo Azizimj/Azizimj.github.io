@@ -3,8 +3,15 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=70kjp5AAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can browse my <a href="https://scholar.google.com/citations?user=70kjp5AAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
+
+**Services**
+- ICML 2022
+- UAI 2022
+- ICML 2021
+- AAAI 2021
+- NeurIPS 2021
 
 <!-- **2022**
 
