@@ -5,6 +5,7 @@ title: Teaching
 
 I had the chance of assisting to teach the following courses.
 
+- ISE 535, Data Mining, Spring 2022
 - ISE 535, Data Mining, Fall 2021
 - ISE 535, Data Mining, Summer 2021
 - ISE 220, Probabilities, Fall 2021
