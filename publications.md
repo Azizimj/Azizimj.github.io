@@ -10,8 +10,6 @@ You can browse my <a href="https://scholar.google.com/citations?user=70kjp5AAAAA
 - ICML 2022
 - UAI 2022
 - AAAI 2021
-- NeurIPS 2021
-- ICML 2021
 
 <!-- **2022**
 
