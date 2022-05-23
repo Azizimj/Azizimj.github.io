@@ -3,13 +3,15 @@ layout: page
 title: Publications
 ---
 
-You can browse my <a href="https://scholar.google.com/citations?user=70kjp5AAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can browse my <a href="https://scholar.google.com/citations?user=70kjp5AAAAAJ&hl=en" target="_blank">Google Scholar profile</a> 
+or <a href="https://www.semanticscholar.org/author/27585106" target="_blank">Semanic Scholar profile</a>
 <br />
 
 **Services**
 - ICML 2022
 - UAI 2022
-- AAAI 2021
+- NeurIPS 2022
+
 
 <!-- **2022**
 
