@@ -11,6 +11,9 @@ or <a href="https://www.semanticscholar.org/author/27585106" target="_blank">Sem
 - ICML 2022
 - UAI 2022
 - NeurIPS 2022
+- Management Science, 2020
+- Computers & Operations Research, 2019
+- Operations Management, 2019
 
 
 <!-- **2022**
