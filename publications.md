@@ -8,6 +8,7 @@ or <a href="https://www.semanticscholar.org/author/27585106" target="_blank">Sem
 <br />
 
 **Services**
+- AISTATS 2023
 - AAAI 2023
 - NeurIPS 2022
 - ICML 2022
