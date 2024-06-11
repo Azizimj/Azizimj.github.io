@@ -8,9 +8,9 @@ or <a href="https://www.semanticscholar.org/author/27585106" target="_blank">Sem
 <br />
 
 **Services**
-- NeurIPS 2022, 2023
+- NeurIPS 2022, 2023, 2024
 - ICML 2022, 2023, 2024
-- AAAI 2023, 2024
+- AAAI 2023, 2024, 2025
 - ICLR 2024
 - AISTATS 2023
 - TMLR 2023
